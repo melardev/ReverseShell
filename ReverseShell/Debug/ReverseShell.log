@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ReverseShell.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ReverseShellServer.cpp
+d:\workspace\vs2015\reverseshell\reverseshell\reverseshellserver.cpp(26): warning C4101: 'bytesReadFromSock': unreferenced local variable
+d:\workspace\vs2015\reverseshell\reverseshell\reverseshellserver.cpp(25): warning C4101: 'bytesReadFromPipe': unreferenced local variable
+  ReverseShell.vcxproj -> D:\workspace\VS2015\ReverseShell\Debug\ReverseShellServer.exe
